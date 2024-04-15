@@ -70,7 +70,7 @@ show_excerpts: false
 
 # URL settings
 homeUrl: "https://sap-samples.github.com/dojo"
-feedbackUrl: "https://github.com/sap-samples/issues/new"
+feedbackUrl: "https://github.com/sap-samples/dojo/issues/new"
 
 repository: "sap-samples/dojo"
 repositoryUrl: "https://github.com/sap-samples/dojo"
