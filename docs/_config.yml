@@ -1,0 +1,84 @@
+---
+title: Dojo
+email: ""
+description: Dialog-Action Learning
+journeys:
+  - label: Culture
+    link: "https://www.youtube.com/watch?v=5TWsIeeYu7k"
+  - label: Agile
+    link: "https://community.sap.com/t5/sap-for-higher-education-and-research-blogs/omg-i-am-a-new-product-owner-help/ba-p/13553971"
+  - label: DevOps
+    link: "https://www.sumologic.com/blog/how-sap-built-a-dojo-community-of-practice-to-support-a-cultural-shift-to-devops/"
+  - label: DataOps
+    link: "https://community.sap.com/t5/sap-for-higher-education-and-research-blogs/from-challenges-to-transformation-the-data-services-organization-dojo-tale/ba-p/13646867"
+
+homepageIntroduction:
+  tagline: Immersive learning through dialog and action cycles
+
+beltLevels:
+  - label: White level - Appeal
+    value: white
+    competences:
+      - Initial exposure, like noticing someone is riding a bicycle
+      - Smoothest first step, especially if starting from zero
+      - '<a href="./Orientation-Request">Orientation - Start your journey by putting on your first belt</a>'
+  - label: Green level - Aware
+    value: green
+    competences:
+      - Understanding from afar, like watching a friend ride a bicycle
+      - Able to work with basic concepts fluidly in conversation
+      - '<a href="./Belt-Request">Belt Claim - Demonstrate grasp of key metaphors, motivations and mindsets</a>'
+  - label: Red level - Action
+    value: red
+    competences:
+      - Like when first learning to ride a bicycle, falling down frequently
+      - Demonstrated applied action using a new skill supported by peers
+      - '<a href="./Belt-Request">Belt Claim - Demonstrate competence to apply skill going forward with autonomy and inclusiveness</a>'
+  - label: Black level - Acceleration
+    value: black
+    competences:
+      - Able to ride the bicycle pedaling fast and hard, learning safely when falling
+      - Demonstrated commitment to helping others explore the domain
+      - '<a href="./Belt-Request">Belt Claim - Demonstrate scaled action illustrating benefit for your home group</a>'
+
+learningGuidance:
+  - Each learning path is unique and not required to be linear
+  - Explore the concepts and exercises below
+  - Summarize the key points in writing at each step and circle back as you progress
+  - Have dialog with peers to test and deepen understanding
+  - Completeness is less important than Relevance to each individual situation
+  - Alternative exercises are encouraged
+  - If already seasoned in the domain, make a belt claim appropriately
+  - Improvements through Pull Requests are the preferred form of critique
+
+domains:
+  - Mindset
+  - Agile
+
+community:
+  - link: Members
+    icon: users
+  - link: Stats
+    icon: pie-chart
+
+requests:
+  - Belt-Request
+  - Orientation-Request
+
+# Blog settings
+show_excerpts: false
+
+# URL settings
+homeUrl: "https://sap-samples.github.com/dojo"
+feedbackUrl: "https://github.com/sap-samples/issues/new"
+
+repository: "sap-samples/dojo"
+repositoryUrl: "https://github.com/sap-samples/dojo"
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+exclude:
+  - Gemfile
+  - Gemfile.lock

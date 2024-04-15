@@ -1,0 +1,104 @@
+---
+layout: page
+---
+
+{% for domainWrapper in site.data.domains %}
+{% assign domain = domainWrapper[1] %}
+{% if domain.label == page.title %}
+<div class="row">
+    <div class="col-md-8">
+        <h5><a name="communities" href="https://www.merriam-webster.com/dictionary/aim">Aim</a></h5>
+        <div class="m-3">
+            <p>{{domain.aim}}</p>
+        </div>
+        <hr>
+
+        <h5><a href="https://www.merriam-webster.com/dictionary/motivation">Motivation</a></h5>
+        <div class="m-3">
+            {% for motivation in domain.motivation %}
+            <p>{{motivation.label}}</p>
+            {% endfor %}
+        </div>
+        <hr>
+
+        <h5><a href="https://en.m.wikipedia.org/wiki/Community">Communities</a></h5>
+        {% if domain.communities %}
+        <small>Interested in a topic? Have feedback? Engage the commmuity to start a conversation.</small>
+        <div class="m-3">
+            {% for community in domain.communities %}
+            <p><a href="{{community.link}}">{{community.label}}</a></p>
+            {% endfor %}
+        </div>
+        <hr>
+        {% else %}
+        <div class="alert alert-dismissible alert-info mt-2">
+            <button type="button" class="close" data-dismiss="alert">&times;</button>
+            <h4>Notice</h4>
+            <p class="text-center">No community is currently associated with this Domain. Interested in
+                Collaborating? <a href="{{ site.slackUrl }}" target="_blank">Reach Out</a></p>
+        </div>
+        <hr>
+        {% endif %}
+    </div>
+    {%- include domain-stats.html -%}
+</div>
+
+<h5>Guidance</h5>
+
+<ul>
+    {% for guidance in site.learningGuidance %}
+    <li>{{ guidance}}</li>
+    {% endfor %}
+</ul>
+
+{% for beltLevel in site.beltLevels %}
+<h4>
+    <img src="images/belt-{{beltLevel.value}}.png" height="50" alt="{{beltLevel.value}}" />
+    <a name="{{beltLevel.value}}-belt">{{beltLevel.label}}</a>
+</h4>
+<ul>
+    {% for competence in beltLevel.competences %}
+    <li>{{ competence}}</li>
+    {% endfor %}
+</ul>
+<div class="table-responsive">
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th scope="col" class="align-middle">Exercise</th>
+                <th scope="col" class="align-middle">Duration</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% assign exercises = domain.exercises | where: "level",beltLevel.value %}
+            {% for exercise in exercises %}
+            <tr>
+                <td>
+                    <h4>{{ exercise.label }}</h4>
+                    <hr>
+                    {% for movement in exercise.movements %}
+                    {% if movement.type %}
+                        {% capture movement_type %}fa-{{ movement.type | downcase }}{% endcapture %}
+                    {% else %}
+                        {% capture movement_type %}fa-question-circle{% endcapture %}
+                    {% endif %}
+                    <p><a href="{{ movement.link }}" target="_blank" rel="noopener noreferrer"><i class="fa {{ movement_type }}"></i> {{ movement.label }}</a></p>
+                    {% endfor %}
+                    {% if exercise.instructions.size != 0 %}
+                    <hr>
+                    <ul>
+                        {% for instruction in exercise.instructions %}
+                        <li>{{ instruction }}</li>
+                        {% endfor %}
+                    </ul>
+                    {% endif %}
+                </td>
+                <td>{{ exercise.duration }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</div>
+{% endfor %}
+{% endif %}
+{% endfor %}

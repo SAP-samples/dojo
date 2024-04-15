@@ -1,0 +1,154 @@
+---
+label: Agile
+aim: Create empowered self-organized teams
+motivation:
+  - label: Individuals and interactions over processes and tools
+  - label: Working software over comprehensive documentation
+  - label: Customer collaboration over contract negotiation
+  - label: Responding to change over following a plan
+communities:
+  - label: (Example) Dojo Agile Circle
+    link: https://en.wikipedia.org/wiki/Dojo
+exercises:
+  - label: Daybreak
+    level: green
+    movements:
+      - label: "Agile Manifesto"
+        link: https://www.agilealliance.org/agile101/the-agile-manifesto/
+        type: globe
+      - label: "Original Principles"
+        link: https://www.agilealliance.org/agile101/12-principles-behind-the-agile-manifesto/
+        type: globe
+      - label: "Simplified Principles"
+        link: https://www.plutora.com/blog/12-agile-principles
+        type: globe
+      - label: "Kanban Guide"
+        link: https://prokanban.org/the-kanban-guide/
+        type: globe
+      - label: "Scrum Guide"
+        link: https://www.scrumguides.org/scrum-guide.html
+        type: globe
+    instructions:
+      - Read the Agile Manifesto & 12 Principles
+      - Read the Kanban Guide
+      - Read the Scrum Guide
+      - Reflect on the foundations of Agile & the two working models
+    duration: 3.0 hrs
+  - label: Orientation
+    level: green
+    movements:
+      - label: "OMG! I AM A NEW PRODUCT OWNER. HELP!!!"
+        link: https://community.sap.com/t5/sap-for-higher-education-and-research-blogs/omg-i-am-a-new-product-owner-help/ba-p/13553971
+        type: rss
+      - label: "What I learned from Extreme Programming: Explained by Kent Beck"
+        link: https://blog.reilly.dev/what-i-learned-from-extreme-programming-explained-by-kent-beck#heading-practices-of-xp
+        type: rss
+      - label: The Art of Refactoring
+        link: https://michaelnthiessen.com/art-of-refactoring/
+        type: globe
+      - label: Pair Programming
+        link: https://en.wikipedia.org/wiki/Pair_programming
+        type: wikipedia-w
+      - label: Swarming
+        link: https://www.scruminc.com/swarming-instantly-boost-scrum-team-productivity/
+        type: globe
+      - label: Why the Celebration of Team Wins Is Crucial
+        link: https://www.bareknucklesagile.com/post/the-celebration-of-team-wins
+        type: globe
+    instructions:
+      - Watch the Introduction to Agile Video
+      - Read the Articles & Web Links Provided
+      - Reflect on the working practices & how they can be applied in your daily work
+    duration: 3.0 hrs
+  - label: Agile Applied
+    level: green
+    movements:
+      - label: "Listen to a 'Faster than a Standup' podcast"
+        link: "https://www.fasterthanastandup.com"
+        type: podcast
+      - label: Post a short introduction video to the Agile Circle chat channel
+        link: ./Agile#communities
+        type: users
+      - label: Participate in a Dojo Agile Circle session
+        link: ./Agile#communities
+        type: connectdevelop
+    instructions:
+      - Listen to at least 5 different 'Faster Than A Standup' podcasts of your choosing. We recommend listening to a podcast which does not include a Dojo Agile Sensei guest speaker.
+      - Participate in a Dojo Agile Circle session
+      - Have a dialog session with a peer to unwrap, unpack and find points of resonance
+    duration: 2.0 hrs
+  - label: Agile Without Saying Agile
+    level: red
+    movements:
+      - label: "Rolling Rocks Downhill - From the Author's Website"
+        link: https://www.clarkeching.com/rrd-page
+        type: globe
+      - label: "Story Map Concepts & Processes"
+        link: https://www.jpattonassociates.com/wp-content/uploads/2015/03/story_mapping.pdf
+        type: file-pdf-o
+    instructions:
+      - Read the book or listen to an audio copy
+      - Absorb the PDF
+      - "Use the <a href='https://www.clarkeching.com/diagrams-rrd'>Evaporating Cloud Diagram</a> to explore a problem"
+      - Continue to delve into the problem by creating a story map based on the results from C or B of your Evaporating Cloud Diagram
+    duration: 10.0 hrs
+  - label: Methods with Action
+    level: red
+    movements:
+      - label: "Novel: Checklist Manifesto"
+        link: "https://www.amazon.com/Checklist-Manifesto-How-Things-Right/dp/0312430000"
+        type: book
+      - label: "Got a wicked problem? First, tell me how you make toast"
+        link: https://www.ted.com/talks/tom_wujec_got_a_wicked_problem_first_tell_me_how_you_make_toast?language=en
+        type: video-camera
+    instructions:
+      - Read the book or listen to an audio copy
+      - Watch the Draw Toast TED Talk
+      - Create an artefact based on the exercises above
+    duration: 10.0 hrs
+  - label: Organizational Culture
+    level: red
+    movements:
+      - label: "DevOps culture: Westrum organizational culture"
+        link: "https://cloud.google.com/architecture/devops/devops-culture-westrum-organizational-culture"
+        type: globe
+      - label: "Westrum’s Organizational Model In Technology Organizations"
+        link: "https://itrevolution.com/westrums-organizational-model-in-tech-orgs/"
+        type: globe
+      - label: "Data-Driven Culture"
+        link: "https://www.cio.com/article/3571792/how-to-create-a-data-driven-culture.html"
+        type: globe
+    instructions:
+      - Read the articles
+      - Have a conversation with a peer around the content presented
+    duration: 2.0 hrs
+  - label: Scaled Action by Example
+    level: black
+    movements:
+      - label: "Essential Scrum: A Practical Guide to the Most Popular Agile Process"
+        link: "https://www.mountaingoatsoftware.com/books/essential-scrum-a-practical-guide-to-the-most-popular-agile-development-pro"
+        type: book
+    instructions:
+      - Read the book or listen to the audio copy
+      - "Must complete one of the following:"
+      - "1. Scrum Master assistant: For one sprint iteration assist a Scrum Master perform their duties"
+      - "2. Product Owner assistant: For one sprint iteration assist a Product Owner perform their duties"
+      - "3. Co-host a Scrum ceremony with a Scrum Master"
+      - "4. Interview a Product Owner, Scrum Master or Agile Coach (lunch and learn if possible)"
+      - Provide your activity result in your belt request
+    duration: 20.0 hrs
+  - label: Scaled Action By Example
+    level: black
+    movements:
+      - label: How SAP built a Dojo Community of Practice to support a cultural shift to DevOps
+        link: https://www.sumologic.com/blog/how-sap-built-a-dojo-community-of-practice-to-support-a-cultural-shift-to-devops/
+        type: globe
+      - label: SAP Next Talent Springs Into the Dojo
+        link: https://community.sap.com/t5/sap-for-higher-education-and-research-blogs/sap-next-talent-springs-into-the-no-ops-dojo/ba-p/13517384
+        type: globe
+      - label: From Challenges to Transformation - The Data Services Organization Dojo Tale
+        link: https://community.sap.com/t5/sap-for-higher-education-and-research-blogs/from-challenges-to-transformation-the-data-services-organization-dojo-tale/ba-p/13646867
+    instructions:
+      - Review some of the provided examples from existing members
+      - Publish your journey as a blog post or creative alternative
+    duration: 10.0 hrs

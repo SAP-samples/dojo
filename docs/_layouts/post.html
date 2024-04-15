@@ -1,0 +1,37 @@
+---
+layout: default
+image: "/images/281495_SpiralboundNotebook_R_orange.png"
+image_alt_text: "Default Blog Image"
+display_image: true
+
+---
+<article>
+    <header>
+        <h1>{{ page.title | escape }}</h1>
+        <p class="text-muted">
+            Published: 
+            <time datetime="{{ page.date | date_to_xmlschema }}">
+                {%- assign date_format = "%b %-d, %Y" -%}
+                {{ page.date | date: date_format }}
+            </time>
+            {%- if page.author -%}
+                • {{ page.author }}
+            {%- endif -%}
+        </p>
+        {%- if page.last_modified_at -%}
+        <p>
+            Updated: 
+            <time datetime="{{ page.date | date_to_xmlschema }}">
+                {%- assign date_format = "%b %-d, %Y" -%}
+                {{ page.last_modified_at | date: date_format }}
+            </time>
+        </p>
+        {%- endif -%}
+    </header>
+    {%- if page.display_image -%}
+    <img src="{{ page.image | relative_url }}" width="200" alt="{{ page.image_alt_text }}">
+    {%- endif -%}
+    <section>
+        {{ content }}
+    </section>
+</article>

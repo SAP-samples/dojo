@@ -1,0 +1,182 @@
+---
+label: Mindset
+aim: Explore change like a wise child
+motivation:
+  - label: Practice reconditions reflex
+  - label: Uncertainty invites opportunity
+  - label: Wherever awareness goes, energy flows
+  - label: Negotiate like Tetris, not Rubik's Cube
+communities:
+  - label: (Example) Dojo Mindset Circle
+    link: https://en.wikipedia.org/wiki/Dojo
+exercises:
+  - label: Daybreak
+    level: green
+    movements:
+      - label: From Challenges to Transformation - The Data Services Organization Dojo Tale
+        link: https://community.sap.com/t5/sap-for-higher-education-and-research-blogs/from-challenges-to-transformation-the-data-services-organization-dojo-tale/ba-p/13646867
+        type: globe
+      - label: Adult Learns to Ride a Bicycle for the First Time!
+        link: https://www.youtube.com/watch?v=ELW3CgR-DW4
+        type: video-camera
+      - label: Got a wicked problem? First, tell me how you make toast - Tom Wujec
+        link: https://www.ted.com/talks/tom_wujec_got_a_wicked_problem_first_tell_me_how_you_make_toast
+        type: video-camera
+      - label: Zanshin - the Japanese technique that helps you gain focus and attention
+        link: https://www.youtube.com/watch?v=QsEzBSYKxH4
+        type: video-camera
+      - label: How Socrates taught me to talk to developers
+        link: https://opensource.com/open-organization/17/5/better-it-socratic-method
+        type: globe
+      - label: Why the Celebration of Team Wins Is Crucial
+        link: https://www.bareknucklesagile.com/post/the-celebration-of-team-wins
+        type: globe
+    duration: 2.0 hrs
+  - label: Perception
+    level: green
+    movements:
+      - label: Bias - Duck Rabbit - Amy Krause
+        link: https://www.youtube.com/watch?v=36AqMX5uua4
+        type: video-camera
+      - label: Illusion - Ames Window
+        link: https://www.youtube.com/watch?v=0KrpZMNEDOY
+        type: video-camera
+      - label: The Unpredictable Freedom and Sweetness of Chaos
+        link: https://zenhabits.net/embrace-chaos/
+        type: globe
+      - label: Tetris and Empathy
+        link: http://adamkulidjian.com/tetris-and-empathy.html
+        type: globe
+      - label: Innovation as a Collaborative Game by Tricia Ratliff
+        link: https://www.youtube.com/watch?v=xDmzbMyBKos
+        type: video-camera
+      - label: The Backwards Brain Bicycle
+        link: https://www.youtube.com/watch?v=MFzDaBzBlL0
+        type: video-camera
+      - label: The Power of System Metaphor
+        link: https://softwareplanetgroup.co.uk/the-power-of-the-system-metaphor/
+        type: globe
+    duration: 3.0 hrs
+  - label: Conditioning
+    level: green
+    movements:
+      - label: "Movie - Free Solo"
+        link: https://www.imdb.com/title/tt7775622/
+        type: film
+      - label: Agile Mental Model (Karpman Awareness Triangle)
+        link: https://agile-od.com/mental-model-dojo/karpmans-drama-triangle
+        type: globe
+      - label: Post a short introduction video to the Mindset Circle chat channel
+        link: ./Mindset#communities
+        type: users
+      - label: Participate in a Dojo Mindset Circle session
+        link: ./Mindset#communities
+        type: connectdevelop
+      - label: Send a note of appreciation to your dialog partners
+        link: https://github.com/InnerSourceCommons/InnerSourcePatterns/blob/main/patterns/2-structured/praise-participants.md
+        type: lightbulb-o
+    instructions:
+      - Watch the movie
+      - Review Karpman's Drama Triangle about drama dynamics
+      - Reflect on how it relates to navigating passionate situations
+      - Have a dialog session with a peer to unwrap, unpack and find points of resonance of this exploration
+      - Participate in a Dojo Circle session
+      - Send a note of appreciation to your dialog partners
+    duration: 7.0 hrs
+  - label: Inspiration
+    level: red
+    movements:
+      - label: The Goal Video - Boy Scout Hike
+        link: https://www.youtube.com/watch?v=Heesxgrl-cM
+        type: video-camera
+      - label: Lessons from the Bamboo
+        link: https://www.youtube.com/watch?v=9g8T8MsFIp0
+        type: video-camera
+      - label: Smarter Every Day 293 - I Was SCARED To Say This To NASA... (But I said it anyway)
+        link: https://www.youtube.com/watch?v=OoJsPvmFixU
+    duration: 5.0 hrs
+  - label: Conditioning
+    level: red
+    movements:
+      - label: Atomic Habits - How to Get 1% Better Every Day - James Clear
+        link: https://www.youtube.com/watch?v=U_nzqnXWvSo
+        type: video-camera
+      - label: The Zen Leader Animated - Ginny Whitelaw
+        link: https://www.youtube.com/watch?v=TsnVMJ7_DqA
+        type: video-camera
+      - label: The Zen Leader - Mini-FEBI Awareness Exercise
+        link: https://zenleader.global/mini-febi
+        type: lightbulb-o
+      - label: Infographic - 10 Essential Flips of Zen Leadership
+        link: https://cdn.dirigible.studio/wp-content/uploads/sites/24/2021/09/04073619/TZL-graphic-izl.pdf
+        type: file-pdf-o
+    instructions:
+      - Explore the videos and media above
+      - Engage the Zen Leader Mini-FEBI awareness exercise
+      - Find peers who have successfully developed one or more of the 10 Essential Flips into a reflex
+      - Select 3 of the flips to work on, such as Or-To-And, Out-There-To-In-Here and From-Controlling-To-Connecting
+      - Work to form a reflex for each of these by exercising the following form ...
+      - Consider each flip and do a Prospective
+      - Go over the concept in dialog and rehearse a plan
+      - Find a Circle, Agile or other Community call where you can be a guest facilitator
+      - During facilitation apply the concept opportunistically and reflexively without overthinking
+      - Meet with your peer(s), Senpai and Sensei as you see fit
+      - Ensure that you have facilitated a minimum of 3 to 5 group dialog sessions
+    duration: 10.0 hrs
+  - label: Transformation
+    level: black
+    movements:
+      - label: How to Start a Movement
+        link: https://www.ted.com/talks/derek_sivers_how_to_start_a_movement
+        type: video-camera
+      - label: Stone Soup
+        link: https://www.youtube.com/watch?v=U1Avo5FJ250
+        type: video-camera
+      - label: Extreme Programming - System Metaphor
+        link: https://www.linkedin.com/advice/0/how-do-you-collaborate-share-your-system-metaphor
+        type: globe
+      - label: Pair Programming
+        link: https://en.wikipedia.org/wiki/Pair_programming
+        type: wikipedia-w
+      - label: The Art of Refactoring
+        link: https://michaelnthiessen.com/art-of-refactoring/
+        type: globe
+      - label: Metaphors We Live By - George Lakoff and Mark Johnson
+        link: https://www.youtube.com/watch?v=lYcQcwUfo8c
+        type: video-camera
+      - label: Never Split The Difference - Chris Voss
+        link: https://www.youtube.com/watch?v=MjhDkNmtjy0
+        type: video-camera
+      - label: Infographic - The Black Swan Group's Negotiation 9™ (N9™)
+        link: https://blog.blackswanltd.com/the-edge/infographic-the-black-swan-groups-negotiation-9
+        type: globe
+    instructions:
+      - Explore the videos and media above
+      - Find peers who have successfully infused one or more of the Negotiation 9™ moves
+      - Select 3 of the moves to work on, such as Dynamic Silence, Paraphrase and Rule-Of-Three
+      - Consider each move through a Prospective
+      - Rehearse a plan for how the moves can work independently and together
+      - Apply the moves at an opportune time without overthinking
+      - Reflect after each application in the form of an informal Retrospective
+      - Meet with colleagues as you see fit to soundboard and receive feedback
+      - Move forward once at least 3 of the Negotiation 9™ moves seem natural AND ...
+      - Negotiation 9™ moves can be combined with Essential Flips WITH ...
+      - Awareness of the metaphors in play for negotiating parties
+    duration: 20.00 hrs
+  - label: Scaled Action By Example
+    level: black
+    movements:
+      - label: Garden - Michael Basil
+        link: https://garden.basil.one
+        type: lightbulb-o
+      - label: How SAP built a Dojo Community of Practice to support a cultural shift to DevOps
+        link: https://www.sumologic.com/blog/how-sap-built-a-dojo-community-of-practice-to-support-a-cultural-shift-to-devops/
+        type: globe
+      - label: OMG! I Am a New Product Owner. Help!!! - James Manzzullo
+        link: https://community.sap.com/t5/sap-for-higher-education-and-research-blogs/omg-i-am-a-new-product-owner-help/ba-p/13553971
+        type: globe
+    instructions:
+      - Review some of the provided examples from existing members
+      - Demonstrate the Mindset journey with cascading positive impacts
+      - Publish the journey as a blog post or creative alternative
+    duration: 20.0 hrs

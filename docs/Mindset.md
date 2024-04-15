@@ -1,0 +1,4 @@
+---
+layout: domain
+title: Mindset
+---

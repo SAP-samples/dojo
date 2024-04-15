@@ -1,0 +1,64 @@
+{% if domain %}
+{% assign dis = [domain | downcase] %}
+{% if domain.label %}
+{% assign dis = [domain.label | downcase] %}
+{% endif %}
+
+{% assign domain_members_all = site.data.members | where_exp: "member", "member.belts[dis] != nil" %}
+{% assign domain_members = domain_members_all | where_exp: "member", "member.inactive != true" %}
+{% assign white = domain_members | where_exp: "member", "member.belts[dis] contains 'white'" %}
+{% assign white_count = white | size %}
+{% assign green = domain_members | where_exp: "member", "member.belts[dis] contains 'green'" %}
+{% assign green_count = green | size %}
+{% assign red = domain_members | where_exp: "member", "member.belts[dis] contains 'red'" %}
+{% assign red_count = red | size %}
+{% assign red_value = red_count | times: 2 %}
+{% assign black = domain_members | where_exp: "member", "member.belts[dis] contains 'black'" %}
+{% assign black_count = black | size %}
+{% assign total_count = black_count | times: 3 | plus: red_value | plus: green_count | plus: white_count %}
+
+<div class="col-md-4 col-sm-12">
+    <div class="card bg-secondary mb-3">
+        {% if show_domain %}
+        <div class="card-header">{{ dis | capitalize }}</div>
+        {% endif %}
+        <div class="card-body">
+            <h5 class="card-title">Belt Claims</h5>
+        </div>
+        <ul class="list-group list-group-flush">
+            <li class="list-group-item d-flex justify-content-between align-items-center">
+                <span><a href="{{ '/Members' | relative_url }}">Member</a> Count</span>
+                <span class="badge badge-warning badge-pill">{{ green_count | plus: red_count | plus: black_count
+                    }}</span>
+            </li>
+
+            <li class="list-group-item d-flex justify-content-between align-items-center">
+                <img src="images/belt-white.png" height="30">
+                <span class="badge badge-primary badge-pill">{{ white_count }}</span>
+            </li>
+            <li class="list-group-item d-flex justify-content-between align-items-center">
+                <img src="images/belt-green.png" height="30">
+                <span class="badge badge-primary badge-pill">{{ green_count }}</span>
+            </li>
+            <li class="list-group-item d-flex justify-content-between align-items-center">
+                <img src="images/belt-red.png" height="30">
+                <span class="badge badge-primary badge-pill">{{ red_count }}</span>
+            </li>
+            <li class="list-group-item d-flex justify-content-between align-items-center">
+                <img src="images/belt-black.png" height="30">
+                <span class="badge badge-primary badge-pill">{{ black_count }}</span>
+            </li>
+
+            <li class="list-group-item d-flex justify-content-between align-items-center">
+                Total Belts Granted
+                <span class="badge badge-danger badge-pill">{{ total_count }}</span>
+            </li>
+        </ul>
+    </div>
+</div>
+{% else %}
+<div class="alert alert-dismissible alert-danger">
+    <button type="button" class="close" data-dismiss="alert">&times;</button>
+    <strong>No stats available for this Domain!</strong>
+</div>
+{% endif %}
