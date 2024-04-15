@@ -48,6 +48,7 @@ Key influences and motivation sources along the way
 * [How to Start a Movement](https://www.ted.com/talks/derek_sivers_how_to_start_a_movement)
 * [Jeremy McMillan](https://www.linkedin.com/in/jeremymcm/)
 * [Tenshinkan Dojo](https://japaneseculturecenter.com/classes/aikido/)
+* [Bill Westfall](https://www.linkedin.com/in/bill-westfall-3268494/)
 
 ## Tour
 
