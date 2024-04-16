@@ -4,9 +4,7 @@ Immersive Learning through Dialog and Action Cycles
 
 # Dojo Sample Model
 
-<!--- TODO Register repository https://api.reuse.software/register, then add REUSE badge:
-[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/REPO-NAME)](https://api.reuse.software/info/github.com/SAP-samples/REPO-NAME)
--->
+[![REUSE status](https://api.reuse.software/badge/github.com/sap-samples/dojo)](https://api.reuse.software/info/github.com/sap-samples/dojo)
 
 According to Wikipedia ...
 
