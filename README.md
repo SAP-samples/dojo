@@ -1,10 +1,10 @@
 # dojo
 
+[![REUSE status](https://api.reuse.software/badge/github.com/sap-samples/dojo)](https://api.reuse.software/info/github.com/sap-samples/dojo)
+
 Immersive Learning through Dialog and Action Cycles
 
 # Dojo Sample Model
-
-[![REUSE status](https://api.reuse.software/badge/github.com/sap-samples/dojo)](https://api.reuse.software/info/github.com/sap-samples/dojo)
 
 According to Wikipedia ...
 
