@@ -1,10 +1,10 @@
 <nav class="container-fluid navbar navbar-expand-lg navbar-dark text-white bg-primary px-5 justify-content-center">
     <div class="row">
         <div class="col-sm">
-            <h5 class="text-white">Journeys</h5>
+            <h5 class="text-white">Chronicles</h5>
             <ul class="list-unstyled navbar-nav flex-column">
-                {% for journey in site.journeys %}
-                <li class="nav-item"><a class="nav-link" href="{{ journey.link | relative_url}}">{{ journey.label }}</a>
+                {% for journey in site.chronicles %}
+                <li class="nav-item"><a class="nav-link" href="{{ journey.link | relative_url}}">{{ chronicle.label }}</a>
                 </li>
                 {% endfor %}
             </ul>

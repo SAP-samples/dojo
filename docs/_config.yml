@@ -2,9 +2,11 @@
 title: Dojo
 email: ""
 description: Dialog-Action Learning
-journeys:
+chronicles:
   - label: Culture
     link: "https://www.youtube.com/watch?v=5TWsIeeYu7k"
+  - label: Contribution
+    link: "https://community.sap.com/t5/open-source-blogs/innersource-first-contribution-explored/ba-p/13644916"
   - label: Agile
     link: "https://community.sap.com/t5/sap-for-higher-education-and-research-blogs/omg-i-am-a-new-product-owner-help/ba-p/13553971"
   - label: DevOps
