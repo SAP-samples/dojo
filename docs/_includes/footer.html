@@ -3,8 +3,8 @@
         <div class="col-sm">
             <h5 class="text-white">Chronicles</h5>
             <ul class="list-unstyled navbar-nav flex-column">
-                {% for journey in site.chronicles %}
-                <li class="nav-item"><a class="nav-link" href="{{ journey.link | relative_url}}">{{ chronicle.label }}</a>
+                {% for chronicle in site.chronicles %}
+                <li class="nav-item"><a class="nav-link" href="{{ chronicle.link | relative_url}}">{{ chronicle.label }}</a>
                 </li>
                 {% endfor %}
             </ul>
