@@ -47,6 +47,7 @@ Key influences and motivation sources along the way
 * [Jeremy McMillan](https://www.linkedin.com/in/jeremymcm/)
 * [Tenshinkan Dojo](https://japaneseculturecenter.com/classes/aikido/)
 * [Bill Westfall](https://www.linkedin.com/in/bill-westfall-3268494/)
+* [Alfred Darby](https://www.linkedin.com/in/alfred-darby-iii-21b6683/)
 
 ## Tour
 
