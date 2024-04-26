@@ -14,5 +14,5 @@ group :development, :test do
    gem 'poltergeist'
    gem 'rack-jekyll'
    gem 'puma' 
-   gem 'phantomjs', # :require => 'phantomjs/poltergeist'
+   gem 'phantomjs'
 end
