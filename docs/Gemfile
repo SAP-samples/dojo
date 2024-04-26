@@ -3,3 +3,14 @@ ruby RUBY_VERSION
 
 gem "github-pages", group: :jekyll_plugins
 gem "webrick"
+
+group :development, :test do
+gem 'rake'
+gem 'rack'
+gem 'rspec'
+gem 'capybara'
+gem 'poltergeist'
+gem 'rack-jekyll'
+gem 'puma' 
+gem 'phantomjs', # :require => 'phantomjs/poltergeist' 
+end
