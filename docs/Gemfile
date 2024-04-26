@@ -1,8 +1,10 @@
 source "https://rubygems.org"
 ruby RUBY_VERSION
 
-gem "github-pages", group: :jekyll_plugins
-gem "webrick"
+group :production do
+   gem "github-pages", group: :jekyll_plugins
+   gem "webrick"
+end
 
 group :development, :test do
    gem 'rake'
