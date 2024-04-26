@@ -88,3 +88,7 @@ plugins:
 exclude:
   - Gemfile
   - Gemfile.lock
+
+test_pages:
+    - index.html
+    - about.html
