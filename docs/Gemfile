@@ -12,5 +12,4 @@ gem 'capybara'
 gem 'poltergeist'
 gem 'rack-jekyll'
 gem 'puma' 
-gem 'phantomjs', # :require => 'phantomjs/poltergeist' 
-end
+gem 'phantomjs', # :require => 'phantomjs/poltergeist'
