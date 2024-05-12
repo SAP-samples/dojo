@@ -44,11 +44,21 @@ Key influences and motivation sources along the way
 
 * [Draw Toast](https://web.archive.org/web/20230218214236/http://www.drawtoast.com/)
 * [How to Start a Movement](https://www.ted.com/talks/derek_sivers_how_to_start_a_movement)
+* [Positive Psychology](https://positivepsychology.com/)
+
 * [Jeremy McMillan](https://www.linkedin.com/in/jeremymcm/)
-* [Tenshinkan Dojo](https://japaneseculturecenter.com/classes/aikido/)
 * [Bill Westfall](https://www.linkedin.com/in/bill-westfall-3268494/)
 * [Alfred Darby](https://www.linkedin.com/in/alfred-darby-iii-21b6683/)
 * [Christopher Eaddy](https://www.linkedin.com/in/coach-eaddy/)
+
+* [Theory of Constraints Institute](https://www.tocinstitute.org/)
+* [Institute for Zen Leadership](https://zenleader.global/)
+* [Black Swan Group](https://www.blackswanltd.com/)
+
+* [Dojo Consortium](https://dojoconsortium.org/)
+* [Tenshinkan Dojo](https://japaneseculturecenter.com/classes/aikido/)
+* [Fox Forrest Zen](https://www.foxforestzen.org)
+* [Thingy Farm](https://thingyfarm.com/)
 
 ## Tour
 
