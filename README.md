@@ -40,8 +40,6 @@ The ***Disruptive 7*** planted the first seeds of the dojo evolution
 
 ## Inspirations
 
-Key influences and motivation sources along the way
-
 Ideas: 
 
 * [Draw Toast](https://web.archive.org/web/20230218214236/http://www.drawtoast.com/)
