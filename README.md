@@ -42,18 +42,26 @@ The ***Disruptive 7*** planted the first seeds of the dojo evolution
 
 Key influences and motivation sources along the way
 
+Ideas: 
+
 * [Draw Toast](https://web.archive.org/web/20230218214236/http://www.drawtoast.com/)
 * [How to Start a Movement](https://www.ted.com/talks/derek_sivers_how_to_start_a_movement)
 * [Positive Psychology](https://positivepsychology.com/)
+
+People: 
 
 * [Jeremy McMillan](https://www.linkedin.com/in/jeremymcm/)
 * [Bill Westfall](https://www.linkedin.com/in/bill-westfall-3268494/)
 * [Alfred Darby](https://www.linkedin.com/in/alfred-darby-iii-21b6683/)
 * [Christopher Eaddy](https://www.linkedin.com/in/coach-eaddy/)
 
+Organizations:
+
 * [Theory of Constraints Institute](https://www.tocinstitute.org/)
 * [Institute for Zen Leadership](https://zenleader.global/)
 * [Black Swan Group](https://www.blackswanltd.com/)
+
+Communities:
 
 * [Dojo Consortium](https://dojoconsortium.org/)
 * [Tenshinkan Dojo](https://japaneseculturecenter.com/classes/aikido/)
