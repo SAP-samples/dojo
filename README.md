@@ -2,7 +2,7 @@
 
 [![REUSE status](https://api.reuse.software/badge/github.com/sap-samples/dojo)](https://api.reuse.software/info/github.com/sap-samples/dojo)
 
-Immersive Learning through Dialog and Action Cycles
+Insightful Learning through Dialog-Action-Reflection
 
 # Dojo Sample Model
 

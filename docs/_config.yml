@@ -1,7 +1,7 @@
 ---
 title: Dojo
 email: ""
-description: Mindshare Cultivation
+description: Insightful Learning
 chronicles:
   - label: Culture
     link: "https://www.youtube.com/watch?v=5TWsIeeYu7k"
@@ -19,7 +19,7 @@ chronicles:
     link: "https://community.sap.com/t5/sap-for-higher-education-and-research-blogs/dojo-mindset-and-agile-circles-the-socratic-method-practically-applied-to/ba-p/13678600"
 
 homepageIntroduction:
-  tagline: Cultivating Mindshare through Dialog-Action Cycles
+  tagline: Insightful Learning through Dialog-Action-Reflection
 
 beltLevels:
   - label: White level - Appeal
