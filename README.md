@@ -63,7 +63,6 @@ Communities:
 
 * [Dojo Consortium](https://dojoconsortium.org/)
 * [Tenshinkan Dojo](https://japaneseculturecenter.com/classes/aikido/)
-* [Fox Forrest Zen](https://www.foxforestzen.org)
 * [Thingy Farm](https://thingyfarm.com/)
 
 ## Tour
