@@ -48,6 +48,7 @@ Ideas:
 
 People: 
 
+* [Sam Fell](https://www.linkedin.com/in/samueldfell)
 * [Jeremy McMillan](https://www.linkedin.com/in/jeremymcm/)
 * [Bill Westfall](https://www.linkedin.com/in/bill-westfall-3268494/)
 * [Alfred Darby](https://www.linkedin.com/in/alfred-darby-iii-21b6683/)
