@@ -1,0 +1,10 @@
+_site
+.sass-cache
+.jekyll-metadata
+node_modules
+package-lock.json
+Gemfile.lock
+.idea
+.idea/*
+# visual studio code
+.vscode
