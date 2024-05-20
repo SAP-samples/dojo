@@ -1,7 +1,7 @@
 ---
 label: Agile
-aim: Influence the formation of empowered, self-organizing teams
-motivation:
+mission: Influence the formation of empowered, self-organizing teams
+principles:
   - label: Individuals and interactions over processes and tools
   - label: Working software over comprehensive documentation
   - label: Customer collaboration over contract negotiation

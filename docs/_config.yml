@@ -48,14 +48,9 @@ beltLevels:
       - '<a href="./Belt-Request">Belt Claim - Demonstrate scaled action illustrating benefit for your home group</a>'
 
 learningGuidance:
-  - Each learning path is unique and not required to be linear
   - Explore the concepts and exercises below
   - Summarize the key points in writing at each step and circle back as you progress
   - Have dialog with peers to test and deepen understanding
-  - Completeness is less important than Relevance to each individual situation
-  - Alternative exercises are encouraged
-  - If already seasoned in the domain, make a belt claim appropriately
-  - Improvements through Pull Requests are the preferred form of critique
 
 domains:
   - Mindset

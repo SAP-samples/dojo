@@ -35,7 +35,7 @@
     {% assign domainInfo = site.data.domains | where: "label",domain %}
     <li>
         <p><a name="domain-{{domain}}" href="{{ domain | relative_url}}">{{ domain }}</a></p>
-        <p>{{ domainInfo[0]["aim"]}}</p>
+        <p>{{ domainInfo[0]["mission"]}}</p>
     </li>
 {% endfor %}
 </ul>
