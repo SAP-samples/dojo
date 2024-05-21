@@ -1,0 +1,12 @@
+services:
+  github-pages:
+    build:
+      context: .
+      dockerfile: ./Dockerfile.local
+    volumes:
+      - ./docs:/usr/src/app
+    ports:
+      # Website
+      - 4000:4000
+      # Livereload
+      - 35729:35729

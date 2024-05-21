@@ -1,0 +1,26 @@
+FROM ruby:3.3
+
+# Create a directory for the app and set it as the working directory
+WORKDIR /usr/src/app
+
+# Create a user and group 'appuser' and set the ownership of the working directory
+# https://docs.prismacloud.io/en/enterprise-edition/policy-reference/docker-policies/docker-policy-index/ensure-that-a-user-for-the-container-has-been-created
+RUN groupadd -r appuser && useradd -r -g appuser appuser && \
+    chown appuser:appuser /usr/src/app
+
+# Copy the Gemfile into the working directory
+COPY docs/Gemfile /usr/src/app
+
+# Switch to the 'appuser'
+USER appuser
+
+# Update bundler to the latest version and install dependencies
+RUN gem install bundler && bundle install
+
+# Set the health check for the container
+HEALTHCHECK --interval=1m --timeout=3s \
+  CMD curl -f http://localhost:4000/ || exit 1
+
+# Command to run the application
+# on --host "0.0.0.0", see https://stackoverflow.com/a/51404865
+CMD ["bundle", "exec", "jekyll", "serve", "--livereload", "--host", "0.0.0.0"]
