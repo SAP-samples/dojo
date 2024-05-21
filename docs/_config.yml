@@ -1,7 +1,7 @@
 ---
 title: Dojo
 email: ""
-description: Insightful Learning
+description: Metashifts
 chronicles:
   - label: Culture
     link: "https://www.youtube.com/watch?v=5TWsIeeYu7k"
@@ -19,7 +19,7 @@ chronicles:
     link: "https://community.sap.com/t5/sap-for-higher-education-and-research-blogs/dojo-mindset-and-agile-circles-the-socratic-method-practically-applied-to/ba-p/13678600"
 
 homepageIntroduction:
-  tagline: Insightful Learning through Dialog-Action-Reflection
+  tagline: Metashifts through Dialog-Action-Reflection
 
 beltLevels:
   - label: White level - Appeal
@@ -48,18 +48,14 @@ beltLevels:
       - '<a href="./Belt-Request">Belt Claim - Demonstrate scaled action illustrating benefit for your home group</a>'
 
 learningGuidance:
-  - Each learning path is unique and not required to be linear
   - Explore the concepts and exercises below
   - Summarize the key points in writing at each step and circle back as you progress
   - Have dialog with peers to test and deepen understanding
-  - Completeness is less important than Relevance to each individual situation
-  - Alternative exercises are encouraged
-  - If already seasoned in the domain, make a belt claim appropriately
-  - Improvements through Pull Requests are the preferred form of critique
 
 domains:
   - Mindset
   - Agile
+  - InnerSource
 
 community:
   - link: Members

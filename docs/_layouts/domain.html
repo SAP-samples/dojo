@@ -7,16 +7,16 @@ layout: page
 {% if domain.label == page.title %}
 <div class="row">
     <div class="col-md-8">
-        <h5><a name="communities" href="https://www.merriam-webster.com/dictionary/aim">Aim</a></h5>
+        <h5><a name="communities" href="https://www.merriam-webster.com/dictionary/mission">Mission</a></h5>
         <div class="m-3">
-            <p>{{domain.aim}}</p>
+            <p>{{domain.mission}}</p>
         </div>
         <hr>
 
-        <h5><a href="https://www.merriam-webster.com/dictionary/motivation">Motivation</a></h5>
+        <h5><a href="https://www.merriam-webster.com/dictionary/principle">Principles</a></h5>
         <div class="m-3">
-            {% for motivation in domain.motivation %}
-            <p>{{motivation.label}}</p>
+            {% for principle in domain.principles %}
+            <p>{{principle.label}}</p>
             {% endfor %}
         </div>
         <hr>

@@ -33,11 +33,11 @@ At the top of page, you will see a drop down for Domains. We recommend Mindset a
 
 *How do you read the content?*
 
-Intersect with the Aim section of a domain first.  Then reflect on the Motivation statements.  Review the Guidance instructions.  Keep note of the associated Community Circles for dialog to progress.  Under each belt level, you will see a list of resources and exercises for practice aligned for an eventual belt claim. There are also time estimates to help you plan however it could take you more or less time to complete each step.
+Intersect with the Mission section of a domain first.  Then reflect on the Principle statements.  Review the Guidance instructions.  Keep note of the associated Community Circles for dialog to progress.  Under each belt level, you will see a list of resources and exercises for practice aligned for an eventual belt claim. There are also time estimates to help you plan however it could take you more or less time to complete each step.
 
 *How to navigate the site?*
 
-Across the top of the Dojo, you will see a navigation bar. The first drop down is Domains. From here, you will see the available domains of learning that you can progress through to level up through green, red, and black level. When you enter a domain, you'll find a description of the aim and motivation for the domain, links to communities you can join and engage with, and a list of activities and learning material you'll need to complete in order to submit for a belt. You will also find estimated durations for each section to help you plan an appropriate amount of time.
+Across the top of the Dojo, you will see a navigation bar. The first drop down is Domains. From here, you will see the available domains of learning that you can progress through to level up through green, red, and black level. When you enter a domain, you'll find a description of the mission and principles for the domain, links to communities you can join and engage with, and a list of activities and learning material you'll need to complete in order to submit for a belt. You will also find estimated durations for each section to help you plan an appropriate amount of time.
 
 *Do I have to buy the books and movies I see in the learning channels?*
 

@@ -1,14 +1,14 @@
 ---
 label: Agile
-aim: Influence the formation of empowered, self-organizing teams
-motivation:
+mission: Influence the formation of empowered, self-organizing teams
+principles:
   - label: Individuals and interactions over processes and tools
   - label: Working software over comprehensive documentation
   - label: Customer collaboration over contract negotiation
   - label: Responding to change over following a plan
 communities:
-  - label: (Example) Dojo Agile Circle
-    link: https://en.wikipedia.org/wiki/Dojo
+  - label: Dojo Circle (Dojo Center) (Fridays at 13:00 UTC)
+    link: https://circle.dojo.center
 exercises:
   - label: Daybreak
     level: green
