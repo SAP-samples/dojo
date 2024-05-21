@@ -3,6 +3,10 @@ _site
 .jekyll-metadata
 node_modules
 package-lock.json
+# We deploy to GitHub Pages using the native Jekyll support
+# The Gemfile.lock file does not seem to be used in this case, so
+# there is no real advantage in tracking it (counter arguments
+# are welcome through PRs and issues).
 Gemfile.lock
 .idea
 .idea/*
