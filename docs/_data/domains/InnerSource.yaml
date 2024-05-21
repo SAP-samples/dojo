@@ -1,0 +1,104 @@
+---
+label: InnerSource
+aim: Improve employee satisfaction and productivity through open-source collaboration and culture
+motivation:
+  - label: Openness
+  - label: Transparency
+  - label: Prioritized Mentorship
+  - label: Voluntary Code Contribution
+communities:
+  - label: InnerSource Commons (ISC)
+    link: https://innersourcecommons.org/community/
+  - label: Dojo Circle (Dojo Center) (Fridays at 13:00 UTC)
+    link: https://circle.dojo.center
+exercises:
+  - label: "Understand what InnerSource is"
+    level: green
+    movements:
+      - label: "InnerSource Commons Learning Path - Introduction"
+        type: video-camera
+        link: https://innersourcecommons.org/learn/learning-path/introduction/
+      - label: InnerSource Commons Stories
+        link: https://innersourcecommons.org/stories/
+        type: globe
+    duration: 2.0 hrs
+    instructions:
+      - Go through the introduction section of the ISC learning path
+      - Browse the stories section of the InnerSource Commons website, check the stories of (some of) the companies that are familiar to you
+      - Reflect if InnerSource can be relevant for you / your project / your organization
+      - Is there a project in your area where the application of InnerSource can make sense?
+      - Is there a project that your team depends on and where your team could benefit if you contribute?
+      - Continue with the next exercise to learn more
+  - label: Dive deeper and start engaging
+    level: green
+    movements:
+      - label: InnerSource Books (On the ISC website)
+        link: https://innersourcecommons.org/learn/books/
+        type: globe
+      - label: Debunking InnerSource Myths
+        link: https://podcast.opensap.info/open-source-way/2023/04/26/debunking-innersource-myths/
+        type: podcast
+      - label: InnerSource - First Contribution Explored 
+        link: https://community.sap.com/t5/open-source-blogs/innersource-first-contribution-explored/ba-p/13644916
+        type: globe
+      - label: InnerSource Commons community on Slack
+        link: https://innersourcecommons.org/community/
+        type: users
+    instructions:
+      - Check the available books on InnerSource, don't read them yet, but get familiar with their main topics, so that you know where to look for information in the future
+      - Read the book Getting Started with InnerSource (it has less than 20 pages of content)
+      - Listen to the podcast and reflect on the common misunderstandings about InnerSource
+      - Search inside your organization for an existing InnerSource community and/or initiative (e.g., an InnerSource Program Office (ISPO))
+      - Join the community in your organization, if it exists, and introduce yourself
+      - Join the InnerSource Commons community and introduce yourself
+    duration: 3.0 hrs
+  - label: "Option A: Contribute to an InnerSource Project"
+    level: red
+    movements:
+      - label: InnerSource Pattern - InnerSource Portal
+        link: https://patterns.innersourcecommons.org/p/innersource-portal
+        type: globe
+      - label: InnerSource Pattern - Gig Marketplace
+        link: https://patterns.innersourcecommons.org/p/gig-marketplace
+        type: globe
+    instructions:
+      - Find one or more InnerSource projects of your interest inside your organization
+      - Find bug fixes, feature requests or general improvements on the projects to which you could contribute
+      - Do the contribution according to the contribution guidelines of the project
+    duration: 20.0 hrs (depending on the project and contribution)
+  - label: "Option B: Adopt InnerSource in your project"
+    level: red
+    movements:
+      - label: Managing InnerSource Projects (Book)
+        link: https://innersourcecommons.org/learn/books/managing-innersource-projects/
+        type: globe
+      - label: InnerSource Patterns Mind Map (Focus on "Begin" and "Adopt")
+        link: https://patterns.innersourcecommons.org/explore-patterns
+        type: globe
+    instructions:
+      - Adopt InnerSource on an existing project (either your main project, or help with the adoption in another project you can influence)
+      - It is also OK to apply InnerSource only to a parts of the project
+      - In case of questions reach out to the projects community and/or the InnerSource community (internal and/or external to your organization)
+      - Use the book "Managing InnerSource Projects" and also the InnerSource Patterns are learning resources
+      - Promote the project and specially its InnerSource aspect (find the right forums on your organization)
+    duration: 40.0 hrs  
+  - label: "Become an expert, evolve InnerSource in your organization and/or the industry"
+    level: black
+    movements:
+      - label: InnerSource patterns
+        link: https://patterns.innersourcecommons.org/
+        type: globe
+      - label: InnerSource Commons events
+        link: https://innersourcecommons.org/events/
+        type: video-camera
+      - label: InnerSource Commons Working Groups
+        link: https://innersourcecommons.org/community/
+        type: globe
+    instructions:
+      - Familiarize yourself with the InnerSource patterns, they will help you guiding other people
+      - Actively contribute to the InnerSource program/initiative of your organization (if it exists)
+      - Form an InnerSource community of practice in your organization (if one does not already exist)
+      - Join the InnerSource Commons events and community calls regularly to learn and share your experience
+      - Present your experience at InnerSource Commons events and/or community calls
+      - Join an contribute to an InnerSource Commons working group
+    duration: 8.0 hrs
