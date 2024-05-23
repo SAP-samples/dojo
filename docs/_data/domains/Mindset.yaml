@@ -13,9 +13,9 @@ exercises:
   - label: Daybreak
     level: green
     movements:
-      - label: From Challenges to Transformation - The Data Services Organization Dojo Tale
-        link: https://community.sap.com/t5/sap-for-higher-education-and-research-blogs/from-challenges-to-transformation-the-data-services-organization-dojo-tale/ba-p/13646867
-        type: globe
+      - label: Insightful Learning - InnerSource Dojo Way (Agile Method)
+        link: https://www.youtube.com/watch?v=fXoVm5iTSCc
+        type: video-camera
       - label: Adult Learns to Ride a Bicycle for the First Time!
         link: https://www.youtube.com/watch?v=ELW3CgR-DW4
         type: video-camera
