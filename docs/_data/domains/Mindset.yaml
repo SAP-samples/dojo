@@ -14,8 +14,11 @@ exercises:
     level: green
     movements:
       - label: Insightful Learning - InnerSource Dojo Way (Agile Method)
-        link: https://www.youtube.com/watch?v=fXoVm5iTSCc
+        link: https://insightful-learning.dojo.center
         type: video-camera
+      - label: Slides - Insightful Learning - InnerSource Dojo Way (Agile Method)
+        link: https://slides.insightful-learning.dojo.center
+        type: file-pdf-o
       - label: Adult Learns to Ride a Bicycle for the First Time!
         link: https://www.youtube.com/watch?v=ELW3CgR-DW4
         type: video-camera
