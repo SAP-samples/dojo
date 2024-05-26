@@ -10,7 +10,7 @@
 
 <h5>{{site.homepageIntroduction.tagline}}</h5>
 
-<p>...</p>
+<p>{{site.homepageIntroduction.pitch}}</p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fXoVm5iTSCc?si=SICIOfw8SJkTLDzU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
