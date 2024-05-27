@@ -102,7 +102,7 @@ belts:
 1. Submit the form by pressing the green "Commit new file" button
 1. Navigate to the "Pull requests" tab of your forked repository
 1. Press the green "New pull request" button to open the "Comparing changes" screen
-1. Ensure that the pull requests the main branch from your repository into the main branch of the *dojo/center* repoistory
+1. Ensure that the pull requests the main branch from your repository into the main branch of the *dojo/center* repository
 1. Press "Create pull request" to open the "Open a pull request" screen
 1. To formalize the pull request, press the "Create pull request" button
 1. The pull request will be listed at [{{site.repositoryUrl}}/pulls]({{site.repositoryUrl}}/pulls)
