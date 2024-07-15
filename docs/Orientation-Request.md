@@ -49,13 +49,32 @@ We want everyone to have access to move through each domain and the ability to e
   * If unsure, then choose Mindset
 * Make a white belt claim as detailed below
 
+### Purposeful Reflection
+
+The pull request will need to include a ***Purposeful Reflection***.
+
+***White level reflection illustrates the motivation for engaging this learning journey.***
+
+#### Guidance
+
+* Take a moment and center on the *Mission* and *Principles* of the domain
+* Take a moment and center on the belt level competence guidance
+* Time box creating your reflection to 30 minutes
+* Once you have submitted your belt claim, bring it up at the next Dojo Circle to introduce yourself 
+
 #### White Belt Claim Review Criteria
 
 During the review of the ***White Belt Pull Request*** the following criteria will be considered and labeled accordingly:
 
-* YAML formatting:
-  * Sufficient: belt-claim-verified-yaml
-  * Deficient: belt-claim-incorrect-yaml-formatting
+* Purposeful Reflection
+  * Sufficient: belt-claim-verified-reflection
+  * Deficient: belt-claim-expand-reflection
+* Live Demo
+  * Sufficient: belt-claim-verified-demo
+  * Deficient: belt-claim-retest-demo 
+* Formatting:
+  * Sufficient: belt-claim-verified-formatting
+  * Deficient: belt-claim-correct-formatting
 
 If a Deficiency Flag (red label) appears, the request will have 30 days to be ironed out. If that time has passed and the belt claim is not able to clear, it will be closed. If at a later time the impediments have been cleared a fresh pull request can be submitted or the pull request can be re-opened.
 
