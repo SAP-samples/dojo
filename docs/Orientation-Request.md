@@ -29,7 +29,7 @@ We center from core principles:
 
 *What Learning and Development paths are available?*
 
-At the top of page, you will see a drop down for Domains. We recommend Mindset and Agile to everyone, however you will also see specific domains for topics like Kubernetes or Observability.
+At the top of page, you will see a drop down for Domains. We recommend Mindset to everyone.
 
 *How do you read the content?*
 
@@ -70,30 +70,28 @@ If a Deficiency Flag (red label) appears, the request will have 30 days to be ir
     * From the *docs* folder, navigate to the *_data* folder
     * From the *_data* folder, navigate to the *members* folder
 1. On the right side of the screen select "Create new file" from the "Add file" dropdown
-1. Name the file with your ID number in lowercase and with a yaml extension
+1. Name the file with your name (hyphenated) in lowercase and with a yaml extension
 1. Back in the GitHub tab, add the following template data in the "Edit new file" section
 
 ```yaml
 ---
 name: TODO-Name
+url: TODO-LinkedIn-Url
 inactive: false
-board-area: TODO-Board-Area
-org-unit: TODO-Organizational-Unit
 belts:
   TODO-domain: TODO-level
 ```
 
 1. Replace all of the TODO values appropriately
-    * name, board-area and org-unit should match what is in your People Profile from the opened tab
+    * name and url suggested to match LinkedIn
     * domain and level are the belt claim request you are making
 1. Verify things look correct, similar to the following for example:
 
 ```yaml
 ---
 name: Your Name
+url: TODO-LinkedIn-Url
 inactive: false
-board-area: Product Engineering
-org-unit: Engineering Department
 belts:
   mindset: white
 ```
